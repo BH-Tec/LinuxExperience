@@ -16,3 +16,11 @@
 Projeto criado para o curso de Formação em Linux da DIO.
 
 ---
+
+## [Projeto 1: Script de Criação de estrutura de usuário, diretório e permissões](./iac1.sh)
+
+## [Projeto 2: Script de Provisionamento de um servidor web (Apache)](./iac2.sh)
+
+## [Projeto 3: Docker - Utilização prática no cenário de microsserviços](##)
+
+---
