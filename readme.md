@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>
 </p>
 
 <p align="center">
@@ -21,6 +21,6 @@ Projeto criado para o curso de Formação em Linux da DIO.
 
 [Projeto 2: Script de Provisionamento de um servidor web (Apache)](./iac2.sh)
 
-[Projeto 3: Docker - Utilização prática no cenário de microsserviços](##)
+Projeto 3: Docker - Utilização prática no cenário de microsserviços
 
 ---
