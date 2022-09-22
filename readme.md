@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#-projeto">Projeto</a>
+  <a href="#-projeto">🖥️ Projet</a>
 </p>
 
 <p align="center">
