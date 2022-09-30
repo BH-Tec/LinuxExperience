@@ -2,6 +2,10 @@
   Formação Linux 🐧
 </h1>
 
+<h2 align="center">
+  <img src="./assets/linux-experience.webp" width="250px">
+</h2>
+
 <p align="center">
   <a href="#-projeto">🖥️ Projeto</a>
 </p>
